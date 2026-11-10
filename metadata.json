@@ -1,0 +1,6 @@
+{
+  "name": "iLovePDF - Online PDF Tools & AI Document Suite",
+  "description": "Every tool you need to work with PDFs in one place. Merge, Split, Compress, Convert JPG to PDF, Watermark, Sign, Protect, Organize pages, and AI PDF Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
